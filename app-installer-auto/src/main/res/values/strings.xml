@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_install_package_names">com.android.packageinstaller,com.lenovo.security,com.dianxinos.superuser,com.google.android.packageinstaller</string>
+</resources>
